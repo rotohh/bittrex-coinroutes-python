@@ -32,21 +32,6 @@ If you are looking for a ``non-async`` version or you are using Python=2.7, then
 
 --------------
 
-Documentation
-    http://python-bittrex-websocket-docs.readthedocs.io/en/latest/
-
-Getting started/How-to
-    http://python-bittrex-websocket-docs.readthedocs.io/en/latest/howto.html
-
-Methods
-    http://python-bittrex-websocket-docs.readthedocs.io/en/latest/methods.html
-
-Changelog
-    http://python-bittrex-websocket-docs.readthedocs.io/en/latest/changelog.html#bittrex-websocket-aio
-
-I am constantly working on new features. Make sure you stay up to date by regularly checking the official docs!
-
-**Having an issue or a question? Found a bug or perhaps you want to contribute? Open an issue!**
 
 Quick Start
 -----------
@@ -110,4 +95,4 @@ Quick Start
 
 Disclaimer
 ----------
-I am not associated with Bittrex. Use the library at your own risk, I don't bear any responsibility if you end up losing your money.
+Use the library at your own risk, I don't bear any responsibility if you end up losing your money.
